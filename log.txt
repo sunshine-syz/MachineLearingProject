@@ -1,0 +1,12 @@
+
+
+AdaBoostClassifier
+depth = 5
+n = 25
+accuracy = 0.735844
+
+RandomForests
+n_estimators = 30
+min_leaf_size = 50
+accuracy = 0.7650
+with Selection 0.7710
