@@ -6,7 +6,6 @@ n = 25
 accuracy = 0.735844
 
 RandomForests
-n_estimators = 30
-min_leaf_size = 50
-accuracy = 0.7650
-with Selection 0.7710
+n_estimators = 80
+min_leaf_size = 4
+with Selection 0.778
