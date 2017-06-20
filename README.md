@@ -10,3 +10,10 @@ Label   Features-of-Image-One Features-of-Image-Two
 The Label is 1 if the same face is present in the images, and 0 otherwise. 
 The features of each image is a 73 dimensional vector, thereby giving features in 146 dimensions. 
 The features are various (noisy) attributes such as hair color, presence of sunglasses, etc, which are described in the file attributes.csv. 
+
+In the end, rank is 15th. 
+
+How to get to a better result:
+1. eliminate unrelevent features
+2. for two pictures do some substrctions or dice coefficience to add more features.
+3. the train algorithm is not the most important 
